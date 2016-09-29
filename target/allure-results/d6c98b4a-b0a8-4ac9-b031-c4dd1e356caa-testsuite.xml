@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1475139612949" stop="1475139675375" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>ru.aplana.autotest.tests.TestHeadphones</name>
+    <test-cases>
+        <test-case start="1475139613509" stop="1475139675358" status="passed">
+            <name>testNew</name>
+            <steps>
+                <step start="1475139613716" stop="1475139614067" status="passed">
+                    <name>goToMarketPage</name>
+                    <title>переход на страницу "Маркет"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1475139624070" stop="1475139624140" status="passed">
+                    <name>goToElectronicsPage</name>
+                    <title>переход на страницу "Электроника"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1475139634143" stop="1475139634246" status="passed">
+                    <name>goToHeadphonesPage</name>
+                    <title>переход на страницу"Наушники"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1475139644249" stop="1475139644358" status="passed">
+                    <name>AdvancedSearchPage</name>
+                    <title>переход на страницу "Расширенный поиск"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="Ayakunina"/>
+                <label name="thread" value="9648@Ayakunina.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

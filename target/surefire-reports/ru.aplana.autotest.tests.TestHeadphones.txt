@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ru.aplana.autotest.tests.TestHeadphones
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 61.937 sec - in ru.aplana.autotest.tests.TestHeadphones
